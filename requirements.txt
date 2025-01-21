@@ -1,2 +1,6 @@
-streamlit
-openai
+streamlit==x.y.z
+requests==x.y.z
+beautifulsoup4==x.y.z
+sentence-transformers==x.y.z
+torch==x.y.z
+huggingface_hub==x.y.z
